@@ -2,3 +2,4 @@ good bye
 ьшь
 LINE FROM user2
 Another line from user2
+critical bug fixed
